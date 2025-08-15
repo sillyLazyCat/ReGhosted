@@ -1,6 +1,6 @@
-# 🔓 ReGhosted
+# 🔓 ReGhosted \#
 
-**ReGhosted** is a fast, minimal GUI utility that automates **CyberGhost trial session refresh** and **temporary account regeneration** — all in a single click.  
+**ReGhosted** is a lightning-fast GUI utility, fully rewritten in C++, that automates **CyberGhost trial refresh** and **temporary account regeneration** with one click.  
 
 Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBPL), which was **slow and bloated (150MB+)**, this version is a **full C++ rewrite**: super fast, ultra-lightweight (~100KB), and packaged as a standalone `.exe`.
 
@@ -8,11 +8,11 @@ Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyC
 
 ## 🧠 What It Does
 
-- 🔄 Resets CyberGhost trial without touching the browser  
-- 📬 Uses disposable email to auto-register a new account  
-- 🧙‍♂️ Injects new credentials straight into the CyberGhost app  
-- 🖥️ Fully visual UI with live status, logs, and debug controls  
-- 💨 Fast AF and clean — launch, click, done  
+- 🔄 Automatically resets your CyberGhost trial account  
+- 📬 Registers a new account using disposable email  
+- 🧙‍♂️ Injects credentials directly into the CyberGhost app  
+- 🖥️ Provides a fully visual interface with live status and logs  
+- 💨 One-click operation — no manual steps needed  
 
 ---
 
@@ -29,16 +29,6 @@ Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyC
 
 ---
 
-## 🛠 Features
-
-- 💻 Standalone `.exe`, no Python or dependencies needed  
-- 👁️ Matrix-style animation with theme control  
-- 🐞 Debug panel with live tweak options  
-- ✅ One-click reset and account creation  
-- 📜 Logs everything in the GUI — no terminal mess  
-
----
-
 ## ⚡ Why C++?
 
 The original Python CLI version (`fuckVITBPL`):  
@@ -51,6 +41,19 @@ This new **C++ GUI rewrite**:
 - Much faster and more responsive  
 - Stable with threading + clean logs  
 - Does the exact same job — just way better  
+
+---
+
+## ❓ FAQ
+
+**Q: Can I use ReGhosted multiple times in a row?**  
+A: No, there is a **24-hour cooldown** between trial resets to avoid detection.  
+
+**Q: Do I need Python or any setup?**  
+A: Nope! It's a standalone `.exe` written in C++. Just download and run.  
+
+**Q: Is this legal?**  
+A: Use it responsibly. The tool is intended for **educational and testing purposes only**.  
 
 ---
 
