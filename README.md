@@ -1,18 +1,18 @@
 # 🔓 ReGhosted
 
-**ReGhosted** is a fast, minimal GUI utility that automates **CyberGhost trial session refresh** and **temporary account regeneration** — all in a single click.
+**ReGhosted** is a fast, minimal GUI utility that automates **CyberGhost trial session refresh** and **temporary account regeneration** — all in a single click.  
 
-Originally CLI-based as [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBPL), this version is a full UI rewrite that's significantly faster, optimized, and packaged as a standalone `.exe`.
+Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBPL), which was **slow and bloated (150MB+)**, this version is a **full C++ rewrite**: super fast, ultra-lightweight (~100KB), and packaged as a standalone `.exe`.
 
 ---
 
 ## 🧠 What It Does
 
-- 🔄 Resets CyberGhost trial without touching the browser
-- 📬 Uses disposable email to auto-register a new account
-- 🧙‍♂️ Injects new credentials straight into the CyberGhost app
-- 🖥️ Fully visual UI with live status, logs, and debug controls
-- 💨 Fast AF and clean — launch, click, done
+- 🔄 Resets CyberGhost trial without touching the browser  
+- 📬 Uses disposable email to auto-register a new account  
+- 🧙‍♂️ Injects new credentials straight into the CyberGhost app  
+- 🖥️ Fully visual UI with live status, logs, and debug controls  
+- 💨 Fast AF and clean — launch, click, done  
 
 ---
 
@@ -39,18 +39,18 @@ Originally CLI-based as [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBP
 
 ---
 
-## 🔁 From CLI to GUI
+## ⚡ Why C++?
 
-The original [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBPL) was:
+The original Python CLI version (`fuckVITBPL`):  
 - CLI-only  
 - 150MB+  
-- Slower execution  
+- Slow execution  
 
-This new version is:
-- Fully GUI  
-- Much smaller and faster  
-- More stable with threading + clean logs  
-- Does the exact same job — just better  
+This new **C++ GUI rewrite**:  
+- Fully visual, lightweight (~100KB)  
+- Much faster and more responsive  
+- Stable with threading + clean logs  
+- Does the exact same job — just way better  
 
 ---
 
