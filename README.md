@@ -1,24 +1,31 @@
-# 🔓 ReGhosted \#
+# 🔓 ReGhosted #
 
 **ReGhosted** is a lightning-fast GUI utility, fully rewritten in C++, that automates **CyberGhost trial refresh** and **temporary account regeneration** with one click.  
 
 Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBPL), which was **slow and bloated (150MB+)**, this version is a **full C++ rewrite**: super fast, ultra-lightweight (~100KB), and packaged as a standalone `.exe`.
+## 📥 Download
 
----
+
+
+
+
+<p align="left">
+  <a href="https://github.com/sillyLazyCat/ReGhosted/releases/download/release/ReGhosted.exe" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20ReGhosted.exe-Blueviolet?style=for-the-badge&logo=windows&logoColor=white&labelColor=4B0082&color=8A2BE2&logoWidth=20" 
+         alt="Download ReGhosted" 
+         height="80">
+  </a>
+</p>
+
+
 
 ## 🧠 What It Does
 
 - 🔄 Automatically resets your CyberGhost trial account  
 - 📬 Registers a new account using disposable email  
-- 🧙‍♂️ Injects credentials directly into the CyberGhost app  
+- 🧙‍♂️ Injects credentials directly into the CyberGhost app (runs in background)  
 - 🖥️ Provides a fully visual interface with live status and logs  
 - 💨 One-click operation — no manual steps needed  
-
----
-
-## 📥 Download
-
-> 👉 [**Get the latest `.exe` here → Releases**](https://github.com/sillyLazyCat/reghosted/releases)  
 
 ---
 
