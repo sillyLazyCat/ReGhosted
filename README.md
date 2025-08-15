@@ -19,13 +19,12 @@ Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyC
 ## 📥 Download
 
 > 👉 [**Get the latest `.exe` here → Releases**](https://github.com/sillyLazyCat/reghosted/releases)  
-> No Python required. No setup. Just download and run.
 
 ---
 
 ## 🖼️ Preview
 
-![screenshot](./screenshot.png)
+![screenshot](./preview.gif)
 
 ---
 
