@@ -26,6 +26,8 @@
 - 🖥️ Provides a fully visual interface with live status and logs  
 - 💨 One-click operation — no manual steps needed  
 
+<sub>💡 If you don’t have CyberGhost installed, you can download it <a href="https://download.cyberghostvpn.com/windows/CyberGhostVPNSetup.exe">here</a>.</sub>
+
 ---
 
 ## 🖼️ Preview
