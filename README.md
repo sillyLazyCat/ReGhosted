@@ -2,11 +2,8 @@
 
 **ReGhosted** is a lightning-fast GUI utility, fully rewritten in C++, that automates **CyberGhost trial refresh** and **temporary account regeneration** with one click.  
 
-Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyCat/fuckVITBPL), which was **slow and bloated (150MB+)**, this version is a **full C++ rewrite**: super fast, ultra-lightweight (~100KB), and packaged as a standalone `.exe`.
+
 ## 📥 Download
-
-
-
 
 
 <p align="left">
@@ -16,6 +13,8 @@ Originally a Python CLI tool called [`fuckVITBPL`](https://github.com/sillyLazyC
          height="80">
   </a>
 </p>
+
+<p align="left"><sub><b>Originally a Python CLI tool (<a href="https://github.com/sillyLazyCat/fuckVITBPL">fuckVITBPL</a>), now a fast, lightweight (~100KB) C++ standalone .exe.</b></sub></p>
 
 
 
