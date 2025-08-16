@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/sillyLazyCat/ReGhosted/releases/download/release/ReGhosted.exe" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/sillyLazyCat/ReGhosted/releases/download/update/ReGhosted.exe" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/⬇️%20Download%20ReGhosted.exe-Blueviolet?style=for-the-badge&logo=windows&logoColor=white&labelColor=4B0082&color=8A2BE2&logoWidth=20" 
          alt="Download ReGhosted" 
          height="80">
